@@ -1,6 +1,7 @@
 Hi there!
 
 ![Banner Image](https://pel.public.cx/github.gif)
+![Banner Image](./welcome.svg)
 
 <!--
 Welcome to my GitHub profile! I'm a software developer passionate about open-source projects and learning new technologies.

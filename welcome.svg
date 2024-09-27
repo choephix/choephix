@@ -1,0 +1,26 @@
+<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .letter {
+      font-size: 100px;
+      font-family: monospace;
+      animation: wave 2s infinite;
+      transform-origin: center bottom;
+      transform-box: fill-box;
+    }
+
+    @keyframes wave {
+      0%   { transform: translateY(0); }
+      50%  { transform: translateY(-30px); }
+      100% { transform: translateY(0); }
+    }
+  </style>
+
+  <text x="50" y="150" class="letter" style="animation-delay: 0s;">W</text>
+  <text x="120" y="150" class="letter" style="animation-delay: 0.1s;">e</text>
+  <text x="190" y="150" class="letter" style="animation-delay: 0.2s;">l</text>
+  <text x="260" y="150" class="letter" style="animation-delay: 0.3s;">c</text>
+  <text x="330" y="150" class="letter" style="animation-delay: 0.4s;">o</text>
+  <text x="400" y="150" class="letter" style="animation-delay: 0.5s;">m</text>
+  <text x="470" y="150" class="letter" style="animation-delay: 0.6s;">e</text>
+  <text x="540" y="150" class="letter" style="animation-delay: 0.7s;">!</text>
+</svg>
