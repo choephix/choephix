@@ -1,5 +1,3 @@
-Hi there!
-
 ![Banner Image](https://pel.public.cx/github.gif)
 ![Banner Image](./welcome.svg)
 
