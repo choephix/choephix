@@ -1,5 +1,5 @@
 ![Banner Image](https://pel.public.cx/github.gif)
-![Banner Image](./welcome.svg)
+![Banner Image](./welcome.svg?foo)
 
 <!--
 Welcome to my GitHub profile! I'm a software developer passionate about open-source projects and learning new technologies.
